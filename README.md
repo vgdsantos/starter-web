@@ -1,5 +1,6 @@
-# Starter Web Repo
+# Starter Web Project
 
+##Intirduction
 This repository is for showing how Git and GitHub work
 
 ## Purpose
